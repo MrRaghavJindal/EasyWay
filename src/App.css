@@ -1,0 +1,32 @@
+.main{
+  display: flex;
+  justify-content: center;
+}
+
+.box{
+  border: 1px rgb(255, 51, 0) solid;
+  width: 200px;
+  padding: 5px 20px;
+  text-align: center;
+}
+
+.selectbox{
+  margin-left: 30%;
+}
+
+.head{
+  background-color: orangered;
+  text-align: center;
+}
+
+#source{
+  margin-right: 100px;
+}
+
+.footer{
+  height: 40px;
+  width: 100%;
+  bottom: 0%;
+  background-color: orangered;
+  position: fixed;
+}
